@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+ppmi/Data_Collected_in_Prior_EDC/*
+ppmi/ppmi_data/*
+ppmi/ppmi_original_data/*
+r_scripts.Rproj
